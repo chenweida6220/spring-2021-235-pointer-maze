@@ -1,4 +1,4 @@
-OBJECTS=main Main.o Labyrinth.o MazeGenerator.o
+OBJECTS=Main.o Labyrinth.o MazeGenerator.o
 CXXFLAGS= -g
 LDFLAGS=
 CXX=g++
@@ -13,4 +13,4 @@ MazeGenerator.o: MazeGenerator.cpp MazeGenerator.h Labyrinth.h
 
 
 clean:
-	rm -f $(OBJECTS)
+	rm -f $(OBJECTS) main
