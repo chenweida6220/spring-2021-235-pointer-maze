@@ -1,4 +1,4 @@
-OBJECTS=Main.o Labyrinth.o MazeGenerator.o
+OBJECTS=main Main.o Labyrinth.o MazeGenerator.o
 CXXFLAGS= -g
 LDFLAGS=
 CXX=g++

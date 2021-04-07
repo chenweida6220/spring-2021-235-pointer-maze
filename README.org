@@ -1,20 +1,20 @@
 * Fall 2021 235 Pointer Maze
 
-* Last name:
+* Last name: Chen
 
-* First name:
+* First name: Wei Da
 
-* GitHub username:
+* GitHub username: chenweida6220
 
 * Notes:
 
-Due date: April 8, 8:00am 
+Due date: April 8, 8:00am
 
 
 * General instructions:
 - Fill in your name and GitHub username on top.
 
-* Notes: 
+* Notes:
 
 This lab requires the use of gdb to map your maze. If you don't recall
 the material we went over last semester, you can find many gdb
@@ -39,19 +39,16 @@ twistyStartLocation~. You can also use the * and -> with gdb variables
 (just remember that the gdb variable has a $ so what $x points to
 would be *$x, the component something from $x would be
 $x->something). You can reasign and combine but remember you might
-need parentheses for order of operations. 
+need parentheses for order of operations.
 
 
-* More instructions. 
+* More instructions.
 
 The specific instructions can be found int he pdf file
 *Assignment.pdf*. Note that when you start, you won't know what maze
 looks like but can use the default settings to check to check what you
 write for ~isPathToFreedom~. See *Solutions.txt* for answers to the
-default mazes. 
+default mazes.
 
 Also note  that milestone 3 *will not be graded*. You can do that
-though for extra pointer practice. 
-
-
-
+though for extra pointer practice.
